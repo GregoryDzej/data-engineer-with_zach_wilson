@@ -83,3 +83,5 @@ select
 from windowed w 
 join static s
 on w.player_name = s.player_name;
+
+
